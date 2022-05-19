@@ -12,6 +12,6 @@ def naive_matcher(T,S):
             else:
                 index+=1
                 break
-l='lokeshisgreatlokesh'
-s='lokesh'
+l='lokeshisagreathutylokeshuihuihuilokeshgcfcdcgxccghchhfyftyfyftyftxcrffffffffffffffffffffftyfyguihhuiufydrtdhuihctyfuyjguyhfghjolkioguygjhfyfcytdrtfgdyfvyjhgyhvtyfyhvuyjhvghcgvyfycfvycuyhvihikhikhnopkkljjvgfxchuhgyytfyfyftyffuyjguyguyjgtyguyvuguyghhuiuyibuihiojh'
+s='esh'
 naive_matcher(l,s)
