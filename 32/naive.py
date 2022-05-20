@@ -13,9 +13,8 @@ def naive_matcher(T,S):
             else:
                 index+=1
                 break
-start_time=time.process_time()
-l='lokeshisgreatlokeshisamaiuihiuhiuhiuiuniuiuhubhubhbnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkefwiunhehbhe hbhbhj hjbd hhhj hbqhuhb jenkjelokeshbhubhubuhnbuhbunilokeshnunububuyubhuyubyubygv ghbyuebyubeyuhubyubynhgyu yubgyhbeyubhjbjbhjhjbhjbhjbhjbhjbhjbhjbk bjgbyubyubkyuebggubyubiyubtygvyuguyuhyig67fglokesh'
-s='lokesh'
+l='lokeshisagreathutylokeshuihuihuilokeshgcfcdcgxccghchhfyftyfyftyftxcrffffffffffffffffffffftyfyguihhuiufydrtdhuihctyfuyjguyhfghjolkioguygjhfyfcytdrtfgdyfvyjhgyhvtyfyhvuyjhvghcgvyfycfvycuyhvihikhikhnopkkljjvgfxchuhgyytfyfyftyffuyjguyguyjgtyguyvuguyghhuiuyibuihiojh'
+s='esh'
 naive_matcher(l,s)
 
 run_time=format(time.process_time()-start_time,'.20f')
